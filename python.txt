@@ -1,0 +1,35 @@
+# Variables
+
+    1. String Concatenation
+
+    2. Separate string into Arguments.
+
+    3. Fstrings
+
+    4. Data types: Integer, Float, String, Boolean
+
+        Note: Boolean must not be in quotes
+
+    # Tips and Tricks:-
+        - multiple assignment
+
+------------------------------------------------------------------------------------------------------------------------
+
+# Type Casting
+
+    - The process of converting a value of one data type to another
+    - (string, integer, float, boolean)
+    - Explicit vs Implicit
+
+    1. Type function
+
+    2. Explicit Cast
+        - manually converting data types using built-in functions like int(), float(), and str()
+
+        Note: Boolean 0 is only false, and -3 -2 -1 1 2 3... in the boolean values are considered to be true.
+
+    3. Implicit Cast
+        - a variables data type can be converted if certain operations are performed in it.
+
+------------------------------------------------------------------------------------------------------------------------
+
